@@ -25,5 +25,5 @@ Excel、VBA、PowerBI (Power Query)、資料管理
 
 ![image](https://github.com/user-attachments/assets/f3dd1b9a-b1f7-4396-bea0-f5e27d7eb275)
 
-* 本資料非真實資料
+* 本資料為呈現作品用的非完整資料
   
